@@ -45,7 +45,7 @@ Access exclusive AI-powered tools in CorelDRAW with a subscription — including
 ### 🖼 Preview
 
 Subscription-only AI tools panel in CorelDRAW showing upsample and background removal  
-![Screenshot](https://subscription-ai-tools-coreldraw.github.io/.github)  
+![Screenshot](https://cdn.mos.cms.futurecdn.net/pb68s8M6fhubxusPpjm2gY.png)  
 *Unlock the smart side of design — powered by Corel AI*
 
 ---
